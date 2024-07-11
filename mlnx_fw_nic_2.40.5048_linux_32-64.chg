@@ -1,0 +1,43 @@
+Update the firmware the following adapters to 2.40.5048
+
+       Mellanox ConnectX-3 VPI Dual-port QSFP FDR14/40GbE HCA
+       PN: 00D9551_Ax   
+	   PSID: IBM1090111019
+	   Firmware: 2.40.5048
+	   UEFI: 14.11.0040
+	   Legacy PXE: 3.4.0747
+	   
+	   Mellanox ConnectX-3 EN Dual-port SFP+ 10GbE Adapter
+       PN: 00D9691_Ax   
+	   PSID: IBM1080111023
+	   Firmware: 2.40.5048
+	   UEFI: 14.11.0040
+	   Legacy PXE: 3.4.0747
+	   
+	   Mellanox ConnectX-3 Pro 40GbE / FDR IB VPI ML2 for IBM System x
+       PN: 00FP650_Ax   
+	   PSID: IBM2000110021
+	   Firmware: 2.40.5048
+	   UEFI: 14.11.0040
+	   Legacy PXE: 3.4.0747
+	   
+	   ML24 Mellanox Infiniband Adapter for IBM BladeCenter
+       PN: 90Y3456_A4-A9_Bx   
+	   PSID: IBM0FD0140019
+	   Firmware: 2.40.5048
+	   UEFI: 14.11.0040
+	   Legacy PXE: -
+	   
+	   ML22 Mellanox Ethernet Adapter for IBM BladeCenter
+       PN: 90Y3468_A4-A9_Bx   
+	   PSID: IBM0FE0140023
+	   Firmware: 2.40.5048
+	   UEFI: 14.11.0040
+	   Legacy PXE: 3.4.0747
+	   
+	   ML24 Mellanox 40Gb Ethernet Adapter for IBM BladeCenter
+       PN: 90Y3484_Ax   
+	   PSID: IBM1060110017
+	   Firmware: 2.40.5048
+	   UEFI: 14.11.0040
+	   Legacy PXE: 3.4.0747
